@@ -1,0 +1,42 @@
+.h1{
+    font-size: 50px;
+    font-style:bold;
+    color: blue;
+}
+.button{
+    padding: auto;
+    border-radius: 15px;
+    size: 20px;
+    color: blue;
+    
+    align-items: center;
+    
+}
+.navigation{
+    margin-bottom:0px;
+    padding : 0px ;
+    display: flex;
+    gap: 20px;
+    text-justify: padding;
+    margin-left: 450px;
+}
+
+.class{
+    border-radius:20PX  ; 
+    border:none ;   
+    background: blue;
+    color: #FFFFFF;
+    width: 15%;
+    padding: 10px;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+        align-items:center ;
+}
+.class{
+    margin-top: 100px;
+    margin-left: 490px
+}
+
